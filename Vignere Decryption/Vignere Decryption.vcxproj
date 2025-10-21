@@ -24,6 +24,7 @@
     <ProjectGuid>{aed8fb83-0bca-4803-8752-d3545adc2333}</ProjectGuid>
     <RootNamespace>VignereDecryption</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Vigenere Decryption</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
